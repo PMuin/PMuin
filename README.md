@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patricia Muiño</h1>
-<h3 align="center">Desarrolladora web Full Stack, con conocimientos en base de datos MSQL, Java, Javascript, HTML, CSS y frameworks como Spring Boot, Angular y Bootstrap. Llevando a cabo, las metodologías ágiles: Kanban y Scrum y, las buenas prácticas en el desarrollo de software: SOLID, TDD, OOP y patrones de diseño.</h3>
+<h3 align="center">Desarrolladora web Full Stack, con conocimientos en base de datos MySQL, Java, Javascript, HTML, CSS y frameworks como Spring Boot, Angular y Bootstrap. Llevando a cabo, las metodologías ágiles: Kanban y Scrum y, las buenas prácticas en el desarrollo de software: SOLID, TDD, OOP y patrones de diseño.</h3>
 
 - 🌱 I’m currently learning **Angular Material, Cybersecurity**
 
