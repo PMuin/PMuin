@@ -14,5 +14,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmuin&show_icons=true&locale=en&layout=compact" alt="pmuin" /></p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=PMuin)
 
