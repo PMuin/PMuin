@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Patricia</h1>
-<h3 align="center">Desarrolladora web Full Stack, con conocimientos sobre HTML5, CSS3, Java, Javascript, Bases de Datos MySQL y frameworks como Spring Boot, Angular y Bootstrap. Llevando a cabo las metodologías ágiles(Kanban, Scrum) y las buenas prácticas en el desarrollo de software: TDD, OOP y patrones de diseño.</h3>
+<h3 align="center">Desarrolladora web Full Stack, con conocimientos sobre HTML5, CSS3, Java, Javascript, Bases de Datos MySQL y frameworks como Spring Boot, Angular y Bootstrap. Llevando a cabo las metodologías ágiles (Kanban, Scrum) y las buenas prácticas en el desarrollo de software: TDD, OOP y patrones de diseño.</h3>
 
 - Actualmente haciendo cursos de formación sobre **Angular Material, Cybersecurity, etc**
 
