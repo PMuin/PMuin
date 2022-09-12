@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/patricia-mui%c3%b1o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patricia-mui%c3%b1o" height="30" width="40" /></a>
-<a href="email" target="blank"><img align="center" src="patricia.muino97@gmail.com" alt="e-mail" height="30" width="40" /></a>
+<a href="email" target="blank"><img align="center" src="patricia.muino97@gmail.com" alt="patricia.muino97@gmail.com"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
